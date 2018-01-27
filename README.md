@@ -2,7 +2,7 @@
 
 ## Empassioned Woman
 
-I live in Austin, Texas and I lead a data science party on Habitica. 
+I live in Austin, Texas, and I lead a data science party on Habitica. 
 
 Here is [my website](https://wolf.engineer/).
 
